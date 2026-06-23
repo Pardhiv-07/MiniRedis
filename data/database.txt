@@ -1,0 +1,4 @@
+city	Hyderabad
+wt	60
+name	charan
+clg	kgp
